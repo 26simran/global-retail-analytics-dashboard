@@ -46,5 +46,6 @@ Each dataset includes transaction-level details such as **Transaction ID, Date, 
 - Enabled **data-driven decisions** for sales strategy and inventory planning.
 
 ## Global Retail Dashboard Visuals
-<img width="975" height="511" alt="image" src="https://github.com/user-attachments/assets/b93ae12f-a536-4129-910c-c76af647baf7" />
+<img width="1570" height="823" alt="Screenshot 2025-10-01 114859" src="https://github.com/user-attachments/assets/2dc7b3cc-ae71-40ad-8c3f-a9e6b4986c75" />
+
 
