@@ -31,7 +31,7 @@ Each dataset includes transaction-level details such as **Transaction ID, Date, 
 5. Imported cleaned data into **Power BI**.  
 6. Built **interactive dashboards** with KPIs, charts, filters and time-series analysis.
 
-7. ## 📊 Dashboard Highlights
+ ## 📊 Dashboard Highlights
 - **KPIs:** Total Revenue, Profit, Units Sold.  
 - **Country Comparison:** Revenue & Profit by country.  
 - **Top Performers:** Best categories, stores, and sales reps.
